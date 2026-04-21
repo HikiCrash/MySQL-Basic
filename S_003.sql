@@ -22,4 +22,4 @@ WHERE grade = 3;
 
 SET SQL_SAFE_UPDATES = 0; -- 안전모드 해제(삭제가능)
 
-SET SQL_SAFE_UPDATES = 0; -- 안전모드 켜기
+SET SQL_SAFE_UPDATES = 1; -- 안전모드 켜기
